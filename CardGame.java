@@ -1,5 +1,5 @@
-//// Andrew Simpson ////
-//// P4 resubmission ////
+//Homework project for Operating System class
+//Using multithreading
 
 import java.util.*;
 import java.io.*;
